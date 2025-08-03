@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SmartPole Digital Advertising Backend
 
 A complete backend system for managing digital advertisements on smart poles with PostgreSQL database integration.
@@ -246,3 +247,6 @@ MIT License - See package.json for details
 ---
 
 **SmartPole Digital Advertising Backend** - Ready for production deployment! 🚀 
+=======
+# New-repo
+>>>>>>> b361ea3cdd5187fa98b32ff082781c595800e16f
